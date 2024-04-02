@@ -1,0 +1,19 @@
+
+
+Version:	3.50
+CmdLine:	D:\SUMMER 2023\Du An 1\HiNoTruck\HiNoTruck.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\SUMMER 2023\Du An 1\HiNoTruck\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-18.0.2.1
+Check launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.018.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-18.0.2.1\bin\javaw.exe
+Launcher args:	-jar "D:\SUMMER 2023\Du An 1\HiNoTruck\HiNoTruck.exe"
+Args length:	53/32768 chars
+Exit code:	0
